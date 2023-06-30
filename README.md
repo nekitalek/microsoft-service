@@ -1,5 +1,5 @@
 # microsoft-service
-##Simple windows service which makes zip arhive copy of certain folder. 
+## Simple windows service which makes zip arhive copy of certain folder. 
 *Program dont have any GUI*
 ### Config file
 Config file contains:
